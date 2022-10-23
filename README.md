@@ -1,8 +1,8 @@
 # CS-305
 Software Security
 
-##Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
-Artemis Financial is a financial services company that provides financial planning solutions and insurance solutions to their clients. As their hired programmer, I was to address any known issues within their code base and make sure secure storage of private data and secure communications to upload and download data was implemented.
+*##Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+###Artemis Financial is a financial services company that provides financial planning solutions and insurance solutions to their clients. As their hired programmer, I was to address any known issues within their code base and make sure secure storage of private data and secure communications to upload and download data was implemented.
 
 What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
 This class was probably the most challenging class for me thus far within the program. I had trouble with many of the weekly aspects moving forward. However, I was able to perservere through the class and end up making the grade. In terms of software vulnerabilities, I think the part I was able to understand/implement the most approproately has to do with understanding the history of ciphering. I could easily identify which cipher(s) would be useful in helping Artemis Financial with their algorithm based on the information we learned throughout the course. Then, diploying said cipher within the server class.
